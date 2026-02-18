@@ -14,6 +14,12 @@ The goal of this assignment is to master the building blocks of modern AI, focus
 ---
 
 ## 🚀 Notebook Archive & Explanations
+🌐 Interactive Neural Network Playground
+Before diving into the notebooks, you can explore the visual and intuitive side of deep learning through the TensorFlow Playground. This interactive web tool allows you to experiment with neural network architectures, learning rates, and activation functions directly in your browser.
+
+Playground Website:  https://dlmastery.github.io/neural-network-playground/
+
+Youtube Video: https://www.youtube.com/watch?v=7eSIL6AoXxs
 
 | # | Topic / Notebook Name | Colab Link (with Outputs) | Video Explanation |
 |:---:|:--- |:---:|:---:|
