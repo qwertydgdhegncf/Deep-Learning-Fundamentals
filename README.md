@@ -23,16 +23,16 @@ Youtube Video: https://www.youtube.com/watch?v=7eSIL6AoXxs
 
 | # | Topic / Notebook Name | Colab Link (with Outputs) | Video Explanation |
 |:---:|:--- |:---:|:---:|
-| 01 | [Intro to numpy] | [📄 View](https://colab.research.google.com/drive/15A7A396l89yZM_0trLpIRJibE6NkCtgB?authuser=1#scrollTo=7XZc5-54z88-) | [🎥 Watch](https://www.youtube.com/watch?v=lwo4hxr3Y4o) |
-| 02 | [Title of Colab 2] | [📄 View](./notebooks/colab2.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 03 | [Title of Colab 3] | [📄 View](./notebooks/colab3.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 04 | [Title of Colab 4] | [📄 View](./notebooks/colab4.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 05 | [Title of Colab 5] | [📄 View](./notebooks/colab5.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 06 | [Title of Colab 6] | [📄 View](./notebooks/colab6.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 07 | [Title of Colab 7] | [📄 View](./notebooks/colab7.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 08 | [Title of Colab 8] | [📄 View](./notebooks/colab8.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 09 | [Title of Colab 9] | [📄 View](./notebooks/colab9.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 10 | [Title of Colab 10] | [📄 View](./notebooks/colab10.ipynb) | [🎥 Watch](https://youtube.com/...) |
+| 01 | Intro to numpy | [📄 View](https://colab.research.google.com/drive/15A7A396l89yZM_0trLpIRJibE6NkCtgB?authuser=1#scrollTo=7XZc5-54z88-) | [🎥 Watch](https://www.youtube.com/watch?v=lwo4hxr3Y4o) |
+| 02 | Intro to Pytorch Tensors | [📄 View](https://colab.research.google.com/drive/1xG-tIqaCudvFDqYM6l-MTjbVStgURFV5?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=x9AfkVhRZ98&feature=youtu.be) |
+| 03 | Tensorflow - Tensor Operations | [📄 View](https://colab.research.google.com/drive/13fUV4EQRxkXZ7gTKWuiYc0ah27dbZVtb?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=mYz90LS3U7c) |
+| 04 | Jax Tensors | [📄 View](https://colab.research.google.com/drive/1woKQ4rR88A8qcxoIvYo2bmW8HblGbL_G?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=IKrYjevyTdk&feature=youtu.be) |
+| 05 | Calculus for Deep Learning  | [📄 View](https://colab.research.google.com/drive/1RZARVtTw0Fr6uUGDCjM1oMrgEHHcP1iV?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=cG5JzH42lVM) |
+| 06 | Probability for Deep Learning 1  | [📄 View](https://colab.research.google.com/drive/1IvAYLgFjivFa8kiUux9-dehVAvtfgA8k?authuser=1#scrollTo=H5CSNNdTzWCL) | [🎥 Watch](https://www.youtube.com/watch?v=4PmTUSMikKE&feature=youtu.be) |
+| 07 | Probability for Deep Learning 2 | [📄 View](https://colab.research.google.com/drive/1modN-zBUEUPV260zY8YE4sRbtPX6w2kB?authuser=1#scrollTo=m4Ew39cuZR40) | [🎥 Watch](https://colab.research.google.com/drive/1modN-zBUEUPV260zY8YE4sRbtPX6w2kB?authuser=1#scrollTo=m4Ew39cuZR40) |
+| 08 | Linear algebra for Deep Learning | [📄 View](https://colab.research.google.com/drive/10haTffjBa8Sn_gA-L-cint-3YccdA5be?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=PZiOUrBaswg) |
+| 09 | Neural Networks from Scratch | [📄 View](https://colab.research.google.com/drive/1N-QL_oDsjmadMkP6hfiHGNd6eoPf8Qh3?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=uFVewf8FAiA&feature=youtu.be) |
+| 10 | Why neural networks work - geometric intuition  | [📄 View](https://colab.research.google.com/drive/1cRaQwPi_cShYTtS9dLuuvzM8GhIh0Lw6?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=0txaRBy2_YQ) |
 | 11 | [Title of Colab 11] | [📄 View](./notebooks/colab11.ipynb) | [🎥 Watch](https://youtube.com/...) |
 | 12 | [Title of Colab 12] | [📄 View](./notebooks/colab12.ipynb) | [🎥 Watch](https://youtube.com/...) |
 | 13 | [Title of Colab 13] | [📄 View](./notebooks/colab13.ipynb) | [🎥 Watch](https://youtube.com/...) |
@@ -50,5 +50,5 @@ To run these notebooks locally or in your own Drive:
 3. Google Colab (Recommended)
 
 ## ✍️ Author
-* **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
-* Date: February 2026
+* **Your Name** - Siddharth Rao Kartik
+* Date:  February 18 , 2026
