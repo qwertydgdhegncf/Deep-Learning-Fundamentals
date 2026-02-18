@@ -35,8 +35,7 @@ Youtube Video: https://www.youtube.com/watch?v=7eSIL6AoXxs
 | 10 | Why Neural Networks Work - Geometric Intuition  | [📄 View](https://colab.research.google.com/drive/1cRaQwPi_cShYTtS9dLuuvzM8GhIh0Lw6?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=0txaRBy2_YQ) |
 | 11 | Master Pytorch from First Principles | [📄 View](https://colab.research.google.com/drive/1TiTgrCu0uk0QINuBhoHZPf2F78WnVvtT?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=WOlW-W3C6P0) |
 | 12 | Advanced Pytorch | [📄 View](https://colab.research.google.com/drive/1OSqu9_oLtjueP0m_c75dfZLWyfmp3VXJ) | [🎥 Watch](https://www.youtube.com/watch?v=_fzpdviCGN8&feature=youtu.be) |
-| 13 | Master TensorFlow and Keras from First Principles to Production-Ready Code
- | [📄 View](https://colab.research.google.com/drive/1AMKhLOJfmKRHaL2uTIA1CAp4BQZjZ8rX) | [🎥 Watch](https://www.youtube.com/watch?v=YUflFov0MDw&feature=youtu.be) |
+| 13 | Master TensorFlow and Keras from First Principles to Production-Ready Code | [📄 View](https://colab.research.google.com/drive/1AMKhLOJfmKRHaL2uTIA1CAp4BQZjZ8rX) | [🎥 Watch](https://www.youtube.com/watch?v=YUflFov0MDw&feature=youtu.be) |
 | 14 | Advanced Tensorflow | [📄 View](https://colab.research.google.com/drive/1J6fxzA-OLGYFczad68QsTPNoyJClNFi8) | [🎥 Watch](https://www.youtube.com/watch?v=8XMm4eIHUFg&feature=youtu.be) |
 | 15 | Intro to numpy | [📄 View](https://colab.research.google.com/drive/15A7A396l89yZM_0trLpIRJibE6NkCtgB?authuser=1#scrollTo=7XZc5-54z88-) | [🎥 Watch](https://www.youtube.com/watch?v=lwo4hxr3Y4o) |
 | 16 | Intro to Jax | [📄 View](https://colab.research.google.com/drive/1woKQ4rR88A8qcxoIvYo2bmW8HblGbL_G?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=IKrYjevyTdk&feature=youtu.be) |
