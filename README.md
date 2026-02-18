@@ -23,7 +23,7 @@ Youtube Video: https://www.youtube.com/watch?v=7eSIL6AoXxs
 
 | # | Topic / Notebook Name | Colab Link (with Outputs) | Video Explanation |
 |:---:|:--- |:---:|:---:|
-| 01 | [Title of Colab 1] | [📄 View](./notebooks/colab1.ipynb) | [🎥 Watch](https://youtube.com/...) |
+| 01 | [Intro to numpy] | [📄 View](https://colab.research.google.com/drive/15A7A396l89yZM_0trLpIRJibE6NkCtgB?authuser=1#scrollTo=7XZc5-54z88-) | [🎥 Watch](https://www.youtube.com/watch?v=lwo4hxr3Y4o) |
 | 02 | [Title of Colab 2] | [📄 View](./notebooks/colab2.ipynb) | [🎥 Watch](https://youtube.com/...) |
 | 03 | [Title of Colab 3] | [📄 View](./notebooks/colab3.ipynb) | [🎥 Watch](https://youtube.com/...) |
 | 04 | [Title of Colab 4] | [📄 View](./notebooks/colab4.ipynb) | [🎥 Watch](https://youtube.com/...) |
