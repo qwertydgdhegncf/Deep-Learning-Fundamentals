@@ -32,14 +32,15 @@ Youtube Video: https://www.youtube.com/watch?v=7eSIL6AoXxs
 | 07 | Probability for Deep Learning 2 | [📄 View](https://colab.research.google.com/drive/1modN-zBUEUPV260zY8YE4sRbtPX6w2kB?authuser=1#scrollTo=m4Ew39cuZR40) | [🎥 Watch](https://colab.research.google.com/drive/1modN-zBUEUPV260zY8YE4sRbtPX6w2kB?authuser=1#scrollTo=m4Ew39cuZR40) |
 | 08 | Linear algebra for Deep Learning | [📄 View](https://colab.research.google.com/drive/10haTffjBa8Sn_gA-L-cint-3YccdA5be?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=PZiOUrBaswg) |
 | 09 | Neural Networks from Scratch | [📄 View](https://colab.research.google.com/drive/1N-QL_oDsjmadMkP6hfiHGNd6eoPf8Qh3?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=uFVewf8FAiA&feature=youtu.be) |
-| 10 | Why neural networks work - geometric intuition  | [📄 View](https://colab.research.google.com/drive/1cRaQwPi_cShYTtS9dLuuvzM8GhIh0Lw6?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=0txaRBy2_YQ) |
-| 11 | [Title of Colab 11] | [📄 View](./notebooks/colab11.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 12 | [Title of Colab 12] | [📄 View](./notebooks/colab12.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 13 | [Title of Colab 13] | [📄 View](./notebooks/colab13.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 14 | [Title of Colab 14] | [📄 View](./notebooks/colab14.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 15 | [Title of Colab 15] | [📄 View](./notebooks/colab15.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 16 | [Title of Colab 16] | [📄 View](./notebooks/colab16.ipynb) | [🎥 Watch](https://youtube.com/...) |
-| 17 | [Title of Colab 17] | [📄 View](./notebooks/colab17.ipynb) | [🎥 Watch](https://youtube.com/...) |
+| 10 | Why Neural Networks Work - Geometric Intuition  | [📄 View](https://colab.research.google.com/drive/1cRaQwPi_cShYTtS9dLuuvzM8GhIh0Lw6?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=0txaRBy2_YQ) |
+| 11 | Master Pytorch from First Principles | [📄 View](https://colab.research.google.com/drive/1TiTgrCu0uk0QINuBhoHZPf2F78WnVvtT?authuser=1) | [🎥 Watch](https://youtube.com/...) |
+| 12 | Advanced Pytorch | [📄 View](./notebooks/colab12.ipynb) | [🎥 Watch](https://youtube.com/...) |
+| 13 | Master TensorFlow and Keras from First Principles to Production-Ready Code
+ | [📄 View](./notebooks/colab13.ipynb) | [🎥 Watch](https://youtube.com/...) |
+| 14 | Advanced Tensorflow | [📄 View](./notebooks/colab14.ipynb) | [🎥 Watch](https://youtube.com/...) |
+| 15 | Intro to numpy | [📄 View](https://colab.research.google.com/drive/15A7A396l89yZM_0trLpIRJibE6NkCtgB?authuser=1#scrollTo=7XZc5-54z88-) | [🎥 Watch](https://www.youtube.com/watch?v=lwo4hxr3Y4o) |
+| 16 | Intro to Jax | [📄 View](https://colab.research.google.com/drive/1woKQ4rR88A8qcxoIvYo2bmW8HblGbL_G?authuser=1) | [🎥 Watch](https://www.youtube.com/watch?v=IKrYjevyTdk&feature=youtu.be) |
+| 17 | Advanced Jax| [📄 View](./notebooks/colab17.ipynb) | [🎥 Watch](https://youtube.com/...) |
 
 ---
 
